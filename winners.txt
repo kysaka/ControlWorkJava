@@ -1,0 +1,10 @@
+ID: 6, Name: Laptop, Probability: 50.0%
+ID: 2, Name: Doll, Probability: 30.0%
+ID: 5, Name: Lego, Probability: 25.0%
+ID: 6, Name: Laptop, Probability: 50.0%
+ID: 5, Name: Lego, Probability: 25.0%
+ID: 6, Name: Laptop, Probability: 50.0%
+ID: 2, Name: Doll, Probability: 30.0%
+ID: 4, Name: Sword, Probability: 15.0%
+ID: 1, Name: Ball, Probability: 20.0%
+ID: 1, Name: Ball, Probability: 20.0%

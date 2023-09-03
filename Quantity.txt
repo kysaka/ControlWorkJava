@@ -1,0 +1,6 @@
+Name: Ball, Quantity: 8
+Name: Doll, Quantity: 14
+Name: Car, Quantity: 8
+Name: Sword, Quantity: 4
+Name: Lego, Quantity: 19
+Name: Laptop, Quantity: 0
